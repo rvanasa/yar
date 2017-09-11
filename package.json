@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "Yar - Augmented/Parallel Reality for the Masses",
   "author": "Ryan Vandersmith <ryanvandersmith@gmail.com>",
-  "scripts": {
-    "test": ""
-  },
   "dependencies": {
     "bluebird": "^3.5.0",
     "body-parser": "^1.17.1",
